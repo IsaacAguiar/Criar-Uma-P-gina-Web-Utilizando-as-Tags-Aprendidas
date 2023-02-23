@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+ <head>
+   <title>Meu Primeiro Site na Dio</title>
+ </head>
+
+ <body>
+   <font face="arial">
+   <h1>Uma Página Web Utilizando as Tags Aprendidas</h1> 
+   <hr>
+   <h2 id="inicio">Índice</h2>
+    <ul>
+        <li><a href="#o-que">O que é HTML</a></li>
+        <li><a href="#como-funciona">Como funciona o HTML</a></li>
+        <li><a href="#o-que-sao">O que são as Tags</a></li>
+        <li><a href="#minhas-referencias">Minhas Referências com HTML</a></li>
+    </ul>
+
+   <h2 id="o-que">O que é HTML</h2><a href="#inicio">- Voltar</a>
+    <p>o HTML é uma linguagem de marcação usada para criar e estruturar conteúdo para a web. Ela é composta por elementos que podem ser utilizados para definir a estrutura, conteúdo e estilo de uma página da web.</p>
+
+   <h2 id="como-funciona">Como funciona o HTML</h2><a href="#inicio">- Voltar</a>
+    <p>O HTML funciona como uma linguagem de marcação que permite a criação de páginas web estruturadas e organizadas.</p>
+
+   <h2 id="o-que-sao">O que são as Tags</h2><a href="#inicio">- Voltar</a>
+    <p>As tags são elementos fundamentais no HTML. Elas são usadas para definir a estrutura, conteúdo e estilo de uma página da web.</p>
+
+   <h2 id="minhas-referencias">Minhas Referências com HTML</h2><a href="#inicio">- Voltar</a>
+    <p>Aprendi um pouco sobre HTML5 na <i><a href="https://www.ev.org.br/">Fundação Bradesco.</a></i></p>
+</font>  
+</body>
+</html>
