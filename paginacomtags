@@ -16,10 +16,10 @@
     </ul>
 
    <h2 id="o-que">O que é HTML</h2><a href="#inicio">- Voltar</a>
-    <p>o HTML é uma linguagem de marcação usada para criar e estruturar conteúdo para a web. Ela é composta por elementos que podem ser utilizados para definir a estrutura, conteúdo e estilo de uma página da web.</p>
+    <p>O HTML foi criado por Tim Berners-Lee, um cientista da computação britânico, em 1989 enquanto trabalhava no CERN, a Organização Europeia para a Pesquisa Nuclear. Berners-Lee precisava de uma maneira de compartilhar informações entre seus colegas de trabalho, que estavam espalhados pelo mundo. Ele desenvolveu o HTML como uma linguagem de marcação simples que permitiria a criação e o compartilhamento de documentos hipertexto através da Internet.</p>
 
    <h2 id="como-funciona">Como funciona o HTML</h2><a href="#inicio">- Voltar</a>
-    <p>O HTML funciona como uma linguagem de marcação que permite a criação de páginas web estruturadas e organizadas.</p>
+    <p>O HTML funciona como uma <b>linguagem de marcação</b> que permite a criação de páginas web estruturadas e organizadas.</p>
 
    <h2 id="o-que-sao">O que são as Tags</h2><a href="#inicio">- Voltar</a>
     <p>As tags são elementos fundamentais no HTML. Elas são usadas para definir a estrutura, conteúdo e estilo de uma página da web.</p>
